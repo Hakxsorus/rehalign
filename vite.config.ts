@@ -8,6 +8,7 @@ import uiPro from '@nuxt/ui-pro/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/rehalign/",
   plugins: [
     vue(),
     vueDevTools(),
