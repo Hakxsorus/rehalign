@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@nuxt/ui-pro";
+
+html {
+    font-family: 'Noto Sans JP', sans-serif;
+}
